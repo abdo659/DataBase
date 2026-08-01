@@ -151,7 +151,7 @@ Software QA Engineer | ISTQB® CTFL v4 Certified | Computer Engineering Graduate
 
 ### Connect With Me
 
-* GitHub: https://github.com/abdo659
+* GitHub: https://github.com/abdelrahman-eltabaa
 * LinkedIn: https://www.linkedin.com/in/abdelrahman-eltabaa
 * Portfolio: https://abdelrahman-eltabaa.vercel.app
 
